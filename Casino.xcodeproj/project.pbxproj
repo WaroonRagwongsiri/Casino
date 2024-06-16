@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		84700E6D2C1E9186008DC4A1 /* CasinoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84700E6C2C1E9186008DC4A1 /* CasinoApp.swift */; };
 		84700E6F2C1E9186008DC4A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84700E6E2C1E9186008DC4A1 /* ContentView.swift */; };
-		84700E712C1E9186008DC4A1 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84700E702C1E9186008DC4A1 /* Item.swift */; };
 		84700E732C1E9187008DC4A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84700E722C1E9187008DC4A1 /* Assets.xcassets */; };
 		84700E762C1E9187008DC4A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84700E752C1E9187008DC4A1 /* Preview Assets.xcassets */; };
 		84700E802C1E9187008DC4A1 /* CasinoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84700E7F2C1E9187008DC4A1 /* CasinoTests.swift */; };
@@ -38,7 +37,6 @@
 		84700E692C1E9186008DC4A1 /* Casino.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Casino.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84700E6C2C1E9186008DC4A1 /* CasinoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CasinoApp.swift; sourceTree = "<group>"; };
 		84700E6E2C1E9186008DC4A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		84700E702C1E9186008DC4A1 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		84700E722C1E9187008DC4A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84700E752C1E9187008DC4A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		84700E7B2C1E9187008DC4A1 /* CasinoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CasinoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +96,6 @@
 			children = (
 				84700E6C2C1E9186008DC4A1 /* CasinoApp.swift */,
 				84700E6E2C1E9186008DC4A1 /* ContentView.swift */,
-				84700E702C1E9186008DC4A1 /* Item.swift */,
 				84700E722C1E9187008DC4A1 /* Assets.xcassets */,
 				84700E742C1E9187008DC4A1 /* Preview Content */,
 			);
@@ -261,7 +258,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				84700E6F2C1E9186008DC4A1 /* ContentView.swift in Sources */,
-				84700E712C1E9186008DC4A1 /* Item.swift in Sources */,
 				84700E6D2C1E9186008DC4A1 /* CasinoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
